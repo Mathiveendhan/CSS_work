@@ -1,0 +1,52 @@
+.headd,.one,li{
+    display: inline;
+}
+
+li:hover{
+    color:grey;
+    cursor: pointer;
+}
+
+.searchbar{
+    text-align: center;
+    padding: 3%;
+}
+
+.search-Text{
+    font-size: 20px;
+    height: 60px;
+    width: 900px;
+}
+
+.box{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+}
+
+.box:hover{
+    background-color: black;
+    color: white;
+}
+
+.about{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.cont{
+    font-size: 20px;
+}
+
+.para{
+    padding-bottom: 20px;
+}
